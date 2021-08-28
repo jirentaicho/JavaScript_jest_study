@@ -1,0 +1,14 @@
+{
+  "name": "myjsproject",
+  "version": "1.0.0",
+  "description": "javascript study ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "aoba",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.1.0"
+  }
+}
