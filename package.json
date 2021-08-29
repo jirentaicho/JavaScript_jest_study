@@ -9,6 +9,12 @@
   "author": "aoba",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.1",
     "jest": "^27.1.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.15.0",
+    "babel-jest": "^27.1.0",
+    "regenerator-runtime": "^0.13.9"
   }
 }
